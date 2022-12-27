@@ -209,7 +209,7 @@
   "dependencies": {
     "execa": "^5.0.0",
     "lodash": "^4.17.19",
-    "minimatch": "^5.0.1",
+    "minimatch": "^5.1.2",
     "semver": "^7.3.7"
   },
   "devDependencies": {
@@ -217,7 +217,7 @@
     "@semantic-release/git": "^10.0.1",
     "@types/glob": "^7.1.4",
     "@types/lodash": "^4.14.191",
-    "@types/minimatch": "^3.0.3",
+    "@types/minimatch": "^5.1.2",
     "@types/mocha": "^9.1.1",
     "@types/node": "^14.18.36",
     "@types/semver": "^7.3.12",
