@@ -224,7 +224,7 @@
     "@types/vscode": "~1.57.0",
     "@typescript-eslint/eslint-plugin": "^5.60.1",
     "@typescript-eslint/parser": "^5.62.0",
-    "@vscode/test-electron": "^2.3.5",
+    "@vscode/test-electron": "^2.3.6",
     "bindl": "^2.0.0",
     "conventional-changelog-conventionalcommits": "^4.5.0",
     "cspell": "^5.21.0",
